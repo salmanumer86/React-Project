@@ -1,0 +1,19 @@
+.expenseBtn__Main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: slateblue;
+  border-radius: 2px solid black;
+  border-radius: 12px;
+  height: 80px;
+  border: 1px solid;
+}
+
+.expenseBtn {
+  background-color: rebeccapurple;
+  color: snow;
+  border-radius: 10px;
+  height: 50px;
+  width: 150px;
+  border: 1px solid;
+}
